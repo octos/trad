@@ -12,6 +12,8 @@ liquid coolant | liquide de refroidissement
 engine bay | compartiment moteur
 power delivery | déploie sa puissance
 thermostat | thermostat
+water pump | pompe à eau
+
 
 # FR
 * Boulon = vis + écrou
