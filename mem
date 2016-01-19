@@ -5,7 +5,48 @@ https://en.wikipedia.org/wiki/Letter_frequency
 - http://sjp.pwn.pl/doroszewski/tonka;5507914.html
 - chir.ag/projects/tip-of-my-tongue/
 https://www.rozpisani.pl
-#practice faster transcription of nums to letters: https://www.random.org/strings/?num=10&len=20&digits=on&unique=on&format=html&rnd=new
+#1.speed up transcription of nums to letters: https://www.random.org/strings/?num=10&len=20&digits=on&unique=on&format=html&rnd=new
+TIME-100digits GOAL:30
+20160119 2:26
+20160119 1:55
+20160119 1:28
+
+#2.memorise
+1000 images
+
+Results:
+http://www.canadianmemorychampionships.ca/wp-content/uploads/2014/06/3xcorrectCMCresuCapture.png
+
+Random Words
+Rank	Memory Athlete	Random Words	Year
+1	Greg Sutherland	119	2015
+2	Mattew Kazakov	112	2015
+3	Arnov Rahman	85	2014
+4	Angel Yuen Man Lai	79	2012
+5	Micael Boulet	75	2015
+6	Francis Blondin-Gravel	61	2015
+7	John Tuyen	59	2014
+8	Satyam Merja	58	2014
+9	Damien Michaud	55	2014
+10	Simeon DeVries	50	2013
+
+Rank	Memory Athlete	Speed Cards	Year
+1	Greg Sutherland	52/ 2min. 2 sec.	2015
+2	Angel Yuen Man Lai	52/ 3 min. 35 sec.	2012
+3	Micael Boulet	52/ 4 min. 41 sec.	2015
+4	Eric Yucong Li	52/ 5 min.	2015
+5	Dave Farrow	52/ 5 min.	2015
+6	Arnov Rahman	48 cards/5 min.	2014
+7	Damien Michaud	38 cards/5 min.	2014
+8	Peter Dornan	30 cards/5 min.	2013
+9	Justin Brûlotte	30 cards/ 5 min.	2015
+10	Francis Blondin-Gravel	28 cards/ 5 min.	2015
+
+#Grand Master of Memory
+    Memorise 1,000 random digits in an hour (20 seconds/word)
+    Memorise the order of 10 decks of cards in an hour
+    Memorise the order of one deck of cards in under two minutes.
+
 
 o = [0] = s
 i = [1] = t
