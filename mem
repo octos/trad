@@ -5,6 +5,7 @@ https://en.wikipedia.org/wiki/Letter_frequency
 - http://sjp.pwn.pl/doroszewski/tonka;5507914.html
 - chir.ag/projects/tip-of-my-tongue/
 https://www.rozpisani.pl
+#practice faster transcription of nums to letters: https://www.random.org/strings/?num=10&len=20&digits=on&unique=on&format=html&rnd=new
 
 o = [0] = s
 i = [1] = t
